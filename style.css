@@ -370,7 +370,7 @@ nav ul li:first-child {
 .part-2 div:nth-last-child(2)::before {
   content: "\f005";
   font: var(--fa-font-solid);
-  color: rgb(247, 255, 27);
+  color: rgb(240, 236, 29);
   display: inline-block;
   margin-right: 10px;
 }
